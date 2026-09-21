@@ -1,0 +1,29 @@
+[worldserver]
+
+########################################
+# mod-guild-summon configuration
+########################################
+#
+# A single command that teleports every ONLINE member of your guild to you:
+#
+#   .guildsummon   (alias: .gsummon)
+#
+# Requires game-master rights. The caster is never summoned. Members are spread
+# over a small radius so they do not stack on one point.
+#
+
+#
+#    GuildSummon.Enable
+#        Master on/off switch for the command. 0 = the command is registered but
+#        refuses to run.
+#        Default: 1
+#
+GuildSummon.Enable = 1
+
+#
+#    GuildSummon.SpreadYards
+#        Radius (in yards) around the caster over which summoned members are
+#        scattered. 0 stacks everyone on the exact caster position.
+#        Default: 5
+#
+GuildSummon.SpreadYards = 5
