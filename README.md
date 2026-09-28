@@ -1,5 +1,10 @@
 # mod-guild-summon
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=mod-guild-summon)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=mod-guild-summon)
+<!-- links:end -->
+
 A tiny guild convenience module for AzerothCore (WotLK 3.3.5a). One command
 teleports **every online member of your guild to you**:
 
